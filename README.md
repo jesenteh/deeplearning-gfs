@@ -1,5 +1,4 @@
-# deeplearning-gfs
-Codes for A Deep Learning Approach for Active S-box Prediction of Generalized Feistel Lightweight Block Ciphers
+# Deep Learning Approach for Active S-box Prediction of GFS Ciphers
 
 Note: The code in this respository is for the toy cipher (4-branch GFS experiments) described in https://eprint.iacr.org/2021/066. If you use/modify the code in this repository for your own research and publish it, please cite the paper:
 
